@@ -1,3 +1,6 @@
 [submodule "passgen"]
 	path = passgen
 	url = https://github.com/AlleAkhil/passgen.git
+[submodule "turbotap"]
+	path = turbotap
+	url = https://github.com/AlleAkhil/turbotap.git
