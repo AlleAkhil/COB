@@ -4,3 +4,6 @@
 [submodule "turbotap"]
 	path = turbotap
 	url = https://github.com/AlleAkhil/turbotap.git
+[submodule "snapeat"]
+	path = snapeat
+	url = https://github.com/AlleAkhil/snapeat.git
