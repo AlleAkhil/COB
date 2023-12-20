@@ -7,3 +7,6 @@
 [submodule "snapeat"]
 	path = snapeat
 	url = https://github.com/AlleAkhil/snapeat.git
+[submodule "quizzify"]
+	path = quizzify
+	url = https://github.com/AlleAkhil/quizzify.git
